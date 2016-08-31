@@ -1,0 +1,16 @@
+0135e84f9158742be195dbe7774468ef *DESCRIPTION
+dd84448a036ce0305215fdf5b864d66e *NAMESPACE
+8bb38a8c02338cb4b32548d24a96482a *R/extract_excel.R
+9bf2739eba86280117c8b3ca67669013 *R/shutup-the-dot.R
+30df2956974142b38f2fa4f72324628b *R/summary_excel.R
+a4ba54981055d856e982cf53e5b5c394 *R/view_excel.R
+f00e1b1fb6b0320fabd078d9c1ff8701 *README.md
+e820c259a64035016aa3d485e2f57f16 *man/extract_excel.Rd
+4bc8aacb09c27d85f2a70412a7948c5c *man/summary_excel.Rd
+49748fa853d4a944496908a942b76b11 *man/view_excel.Rd
+9108b670833346c299c5c18c7c1da57e *tests/README
+72fec8cc39a17ce78ed77111957520a8 *tests/test-data-for-xlutils3/Liste_musees_de_France.xls
+c0b606f0730fb616836c8d0817cca65d *tests/test-data-for-xlutils3/aeroports-francais-coordonnees-geographiques/airports.xls
+b4a205b758cac21a74d0ab64297f3b2f *tests/test-data-for-xlutils3/artisans_etalab.xls
+67ed0891e7b1179f263917f41cb84dc5 *tests/testthat.R
+31ac368af32d6336641b53add5bfa3ec *tests/testthat/test-extract-excel.R
